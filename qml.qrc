@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DailyInputPage.qml</file>
+        <file>DataInquiryPage.qml</file>
+        <file>NewProductPage.qml</file>
+        <file>StanderOutputPage.qml</file>
+    </qresource>
+</RCC>
